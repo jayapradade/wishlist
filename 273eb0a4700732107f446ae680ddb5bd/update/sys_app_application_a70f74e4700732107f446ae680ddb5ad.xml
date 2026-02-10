@@ -2,9 +2,9 @@
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <category display_value="">Custom Applications</category>
-        <description>Create personal wish lists</description>
+        <description>Create personal wish lists_test</description>
         <device_type>browser</device_type>
-        <hint>Create personal wish lists</hint>
+        <hint>Create personal wish lists _test</hint>
         <name/>
         <order/>
         <roles>x_snc_wishlist.user</roles>
@@ -14,7 +14,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a70f74e4700732107f446ae680ddb5ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>WishList</sys_name>
         <sys_overrides/>
         <sys_package display_value="WishList" source="x_snc_wishlist">273eb0a4700732107f446ae680ddb5bd</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="WishList">273eb0a4700732107f446ae680ddb5bd</sys_scope>
         <sys_update_name>sys_app_application_a70f74e4700732107f446ae680ddb5ad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-10 14:01:58</sys_updated_on>
+        <sys_updated_on>2026-02-10 14:42:44</sys_updated_on>
         <title>WishList</title>
         <view_name/>
     </sys_app_application>
